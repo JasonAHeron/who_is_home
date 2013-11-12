@@ -6,6 +6,7 @@ A program to perform arp-scans of a network and print to a webpage whether or no
 Requires arp-scan program and root access to the machine running the program
 
 Setup:
+
 1. add "index.php" and "inc/" to your web server's root directory
 
 2. in "index.php" add the names and corresponding MAC addresses of the people you are looking to scan for
