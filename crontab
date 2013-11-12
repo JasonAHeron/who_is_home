@@ -1,0 +1,1 @@
+* * * * * for i in 0 1 2; do sh /home/secure/arp-scan.sh & sleep 20; done; sh /home/secure/arp-scan.sh
