@@ -3,7 +3,15 @@ whoishome
 
 A program to perform arp-scans of a network and print to a webpage whether or not someone is on the wireless network based on the presence of a phone's MAC address.
 
-Requires arp-scan program and root access to the machine running the program
+Requires:
+
+1. arp-scan program
+
+2. webserver
+
+3. wireless card
+
+4. root access to the machine running the program
 
 Setup:
 
