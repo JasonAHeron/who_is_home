@@ -1,0 +1,24 @@
+/*General Elements*/
+html {height: 100%;}
+body {text-align: center; margin: 2em 0 2em 0; vertical-align: middle;}
+#content {background:#d7d2cb; width: 760px; text-align: left; margin: 0 auto;}
+div {text-align:center;}
+h1 {font-size:xx-large; color:#685c53;}
+h2 {font-size:x-large; color:#685c53;}
+h3 {font-size:larger; color:#685c53;}
+h4 {font-size:large; color:#685c53;}
+h5 {font-size:medium; color:#685c53;}
+h6 {font-size:small; color:#685c53;}
+a {text-decoration:none; color:#000000; font-size:large; font-weight:bold;}
+p {font-size:larger;}
+table {text-align:center; border: 0; padding: 0 0 0 0; width:800px;margin-left:auto; margin-right:auto;}
+.menu {color:000000;}
+
+/*Form*/
+.success {background: #E6EFC2; color: #264409; border-color: #C6D880; text-align: center;}
+.error {background: #FBE3E4; color: #8a1f11; border-color: #FBC2C4; text-align: center;} 
+.notice {background: #FFF6BF; color: #514721; border-color: #FFD324; text-align: center;} 
+
+/*Footer*/
+.footer {width:100%; position:fixed; background-color:#D8D8D8; height: 7%; bottom:0;} /*vertically align footer text*/
+.footer-text {color:#000000; padding-right: 1%; text-align: right;font-size:small;} /*vertically align footer text*/
