@@ -11,8 +11,6 @@ Prerequisites:
 
 3. wireless card
 
-4. root access to the machine running the program
-
 Setup:
 
 1. add "index.php" and "inc/" to your web server's root directory
@@ -23,6 +21,8 @@ Setup:
 
 4. add "arp-scan.sh" to /home/secure and make it executable (chmod +x arp-scan.sh)
 
-5. to your crontab file, add the command listed in "crontab"
+5. in "arp-scan.sh" ensure that the interface is correct
 
-6. restart your machine and enjoy
+6. to your crontab file, add the command listed in "crontab"
+
+7. restart your machine and enjoy
