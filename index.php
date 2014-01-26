@@ -2,6 +2,7 @@
 <meta http-equiv="refresh" content="10">
 <?php
 $section = file_get_contents('devices_current', NULL, NULL, 134, 900);
+?>
 <h1>Who is home?</h1>
 <?php
 if (strpos($section,'**MAC1**') !== false) {
